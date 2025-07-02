@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    background: darkgray;
+    height: 570px;
+    width: 470px;
+    margin: auto;
+}
+
+p {}
+
+#screen {
+    text-align: right;
+}
+
+.button {}
+
+.operand {}
+
+.clearB {
+    color: #db0713;
+}
