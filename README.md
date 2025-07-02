@@ -1,5 +1,3 @@
-Sure! Here's the updated and cleaner **README** without the **limitations**, **license**, or **possible improvements** sections:
-
 ---
 
 # Simple Calculator 🧮
@@ -57,5 +55,3 @@ Just open `index.html` in any modern browser.
 Contributions are welcome! Feel free to fork the repo and submit pull requests to improve functionality or design.
 
 ---
-
-Let me know if you'd like this in a downloadable Markdown `.md` file or want help deploying it (e.g., on GitHub Pages).
