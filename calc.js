@@ -1,11 +1,14 @@
+var screen = document.getElementById('screen')
+
 function btnClick(value) {
-    console.log("Hello")
+    screen.value += value;
 }
 
-function clrScr(value) {
-    console.log("Hello")
+function clrScr() {
+    screen.value = "";
 }
 
 function showResult(value) {
-    console.log("Hello")
+    const result = eval(screen.value)
+    screen.value = result;
 }
